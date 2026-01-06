@@ -103,18 +103,6 @@ titl = tk.Label(
 )
 titl.place(x=525, y=5)
 
-a = tk.Label(
-    window,
-    text="Created by:-\n\nVardaan-2338554\nShiva- 2338538\nSombir-2338541",
-    bg="#85ebff",
-    fg="black",  # Bright yellow text color
-    bd=5,
-    font=("Verdana", 10, "bold"),
-)
-a.pack()
-a.place(x=5,y = 80)
-
-
 ri = Image.open("UI_Image/register.png")
 r = ImageTk.PhotoImage(ri)
 label1 = Label(window, image=r,borderwidth=3,relief="solid")
