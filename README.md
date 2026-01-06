@@ -1,7 +1,4 @@
 # Face-Recognition-Attendance-System-
-# Face-Recognition-Attendance-System
-# Face Recognition Attendance System
-
 ## 📌 Project Overview
 This project is a **Face Recognition based Attendance Management System** developed using Python.
 It automatically detects and recognizes student faces using a webcam and marks attendance without manual intervention.
